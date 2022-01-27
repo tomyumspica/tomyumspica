@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tomyum
+- 👀 I’m interested in Web, Mobile and Game Development
+- 🌱 I’m currently coding with Java/Springboot, Node.js, Angular, React.js, ReactNative and Unity. 
+- 💞️ I’m available for remote job.
